@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <carrera clave_carrera="COMP2005" nombre_carrera="Ingenieria en Computacion"/>
+  <carrera clave_carrera="INGEI2017" nombre_carrera="Ingenieria en Electronica Industrial"/>
+  <carrera clave_carrera="INGSW2010" nombre_carrera="Ingenieria de Software"/>
+  <periodoescolar id_periodo="1" year="2020" periodo="1"/>
+  <periodoescolar id_periodo="2" year="2021" periodo="2"/>
+  <periodoescolar id_periodo="3" year="2021" periodo="3"/>
+</dataset>

@@ -1,0 +1,3 @@
+COMP2005,Ingenieria en Computacion
+INGSW2010,Ingenieria de Software
+INGEI2017,Ingenieria en Electronica Industrial
