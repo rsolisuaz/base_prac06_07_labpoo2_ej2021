@@ -20,12 +20,12 @@ public class ColocaDatosUsandoDataSource {
 
 
     public void llenaTablaPeriodoEscolar(boolean debug) throws Exception {
-        // TODO Complete el código de llenaTablaPeriodoEscolar
+        // TODO Complete el codigo de llenaTablaPeriodoEscolar
 
     } // fin del metodo llenaTablaPeriodoEscolar()
 
 
     public void close() throws Exception {
-        // TODO Complete el código de close
+        // TODO Complete el codigo de close
     }
 }
