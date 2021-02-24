@@ -5,8 +5,8 @@ import poo2.prac07.ColocaDatosUsandoDataSource;
 
 public class MainPractica06_07 {
     // TODO
-    // Al siguiente String ponle como valor tu matricula (en vez de xxx)
-    public static final String matricula="xxx";
+    // Al siguiente String ponle como valor tu matricula (en vez de xxxx)
+    public static final String matricula="xxxx";
     public static void main(String[] args) {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
