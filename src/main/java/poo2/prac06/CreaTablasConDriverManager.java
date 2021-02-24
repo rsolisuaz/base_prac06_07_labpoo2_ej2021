@@ -28,7 +28,7 @@ public class CreaTablasConDriverManager {
     public void creaTablas(boolean debug) throws Exception {
         // TODO Complete el codigo de creaTablas
 
-    } // fin del método creaTablas()
+    } // fin del metodo creaTablas()
 
 
     public void llenaTablaCarrera(boolean debug) throws Exception {
